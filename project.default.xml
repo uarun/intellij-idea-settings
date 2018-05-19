@@ -1,0 +1,259 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <wildcardResourcePatterns>
+          <entry name="?*.properties" />
+          <entry name="?*.xml" />
+          <entry name="?*.gif" />
+          <entry name="?*.png" />
+          <entry name="?*.jpeg" />
+          <entry name="?*.jpg" />
+          <entry name="?*.html" />
+          <entry name="?*.dtd" />
+          <entry name="?*.tld" />
+          <entry name="?*.ftl" />
+        </wildcardResourcePatterns>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/blessed/CacheLoader" value="2757679509000" />
+            <entry key="$USER_HOME$/blessed/ats-secmaster" value="2995045059244" />
+            <entry key="$USER_HOME$/blessed/ats-secmaster-client" value="2777240353000" />
+            <entry key="$USER_HOME$/blessed/bbanalytics" value="8697558558000" />
+            <entry key="$USER_HOME$/blessed/bbauth" value="8874833296114" />
+            <entry key="$USER_HOME$/blessed/bbsapi" value="2966958821131" />
+            <entry key="$USER_HOME$/blessed/btap" value="8573120262000" />
+            <entry key="$USER_HOME$/blessed/corporate-actions" value="2917708556393" />
+            <entry key="$USER_HOME$/blessed/fi-refdata" value="2937127353415" />
+            <entry key="$USER_HOME$/blessed/flink-sandbox" value="3034183808409" />
+            <entry key="$USER_HOME$/blessed/forex" value="1380558885000" />
+            <entry key="$USER_HOME$/blessed/forex-client" value="1393860190000" />
+            <entry key="$USER_HOME$/blessed/grdb-aux" value="2992850174435" />
+            <entry key="$USER_HOME$/blessed/grdb-exporter" value="2921266198972" />
+            <entry key="$USER_HOME$/blessed/grdb-loaders" value="16990684743000" />
+            <entry key="$USER_HOME$/blessed/ignite-sandbox" value="3040255449684" />
+            <entry key="$USER_HOME$/blessed/lz-system" value="4419209549527" />
+            <entry key="$USER_HOME$/blessed/nerv" value="4149747274000" />
+            <entry key="$USER_HOME$/blessed/nerv-testing-github" value="4383570538068" />
+            <entry key="$USER_HOME$/blessed/notification" value="2728565250000" />
+            <entry key="$USER_HOME$/blessed/notification-simulator" value="1437692428000" />
+            <entry key="$USER_HOME$/blessed/realtimebb" value="8853538647666" />
+            <entry key="$USER_HOME$/blessed/realtimefx" value="8527074414000" />
+            <entry key="$USER_HOME$/blessed/refpx" value="2854272764748" />
+            <entry key="$USER_HOME$/blessed/sb-risk-controls" value="4216413141000" />
+            <entry key="$USER_HOME$/blessed/sec-status" value="8491733668512" />
+            <entry key="$USER_HOME$/blessed/secmaster-query" value="2771152727000" />
+            <entry key="$USER_HOME$/blessed/secmaster-query-client" value="2760880235000" />
+            <entry key="$USER_HOME$/blessed/secmaster-resolution" value="2816068437000" />
+            <entry key="$USER_HOME$/blessed/secmaster-resolution-client" value="1391180289000" />
+            <entry key="$USER_HOME$/blessed/sqd" value="1403116954000" />
+            <entry key="$USER_HOME$/blessed/tcap" value="4521698535384" />
+            <entry key="$USER_HOME$/blessed/tcap-akka" value="1521942266813" />
+            <entry key="$USER_HOME$/blessed/ths-next" value="11439657160264" />
+            <entry key="$USER_HOME$/blessed/tradinghours" value="2819051353811" />
+            <entry key="$USER_HOME$/dependencyTest" value="1459363879771" />
+            <entry key="$USER_HOME$/git-repos/akka-samples" value="1411141761000" />
+            <entry key="$USER_HOME$/git-repos/irdb-stress" value="1386174816000" />
+            <entry key="$USER_HOME$/git-repos/jms-akka-streams" value="1443232180000" />
+            <entry key="$USER_HOME$/git-repos/kafka-appender" value="4363394506984" />
+            <entry key="$USER_HOME$/git-repos/kafka-async-appender" value="2983885188000" />
+            <entry key="$USER_HOME$/git-repos/kafka-logging" value="2911846235000" />
+            <entry key="$USER_HOME$/git-repos/slick-codegen" value="1435957875000" />
+            <entry key="$USER_HOME$/git-repos/typelevel-experiments" value="1430094538000" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/blessed/flink-sandbox" value="PREVIEW" />
+            <entry key="$USER_HOME$/blessed/ignite-sandbox" value="PREVIEW" />
+            <entry key="$USER_HOME$/blessed/tcap" value="PREVIEW" />
+            <entry key="$USER_HOME$/blessed/tcap-avro" value="PREVIEW" />
+            <entry key="$USER_HOME$/git-repos/kafka-async-appender" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Java language level migration aids</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>PerformanceLintAndroid</id>
+              </State>
+              <State>
+                <id>Plugin DevKit</id>
+              </State>
+              <State>
+                <id>XPath</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="PropertiesComponent">
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalaApplicationSettingsForm" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="options.searchVisible" value="true" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <envs />
+          <patterns />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+          <Host>localhost</Host>
+          <Port>5050</Port>
+        </configuration>
+      </component>
+      <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+        <option name="USER" value="" />
+        <option name="PASSWORD" value="" />
+        <option name="mySSHConnectionTimeout" value="30000" />
+        <option name="mySSHReadTimeout" value="30000" />
+        <option name="LAST_MERGED_REVISION" />
+        <option name="MERGE_DRY_RUN" value="false" />
+        <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+        <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+        <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+        <option name="DETECT_NESTED_COPIES" value="true" />
+        <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+        <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+        <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+        <option name="FORCE_UPDATE" value="false" />
+        <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.6</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.20000002" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

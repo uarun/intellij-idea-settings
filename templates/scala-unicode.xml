@@ -1,0 +1,20 @@
+<templateSet group="scala-unicode">
+  <template name="=&gt;" value="⇒ " shortcut="SPACE" description="Unicode Template for scala =&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SCALA" value="true" />
+      <option name="SCALA_XML" value="false" />
+    </context>
+  </template>
+  <template name="&lt;-" value="← " shortcut="SPACE" description="Unicode Template for scala &lt;-" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SCALA" value="true" />
+      <option name="SCALA_XML" value="false" />
+    </context>
+  </template>
+  <template name="-&gt;" value="→ " shortcut="SPACE" description="Unicode Template for scala -&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SCALA" value="true" />
+      <option name="SCALA_XML" value="false" />
+    </context>
+  </template>
+</templateSet>

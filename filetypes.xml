@@ -1,0 +1,21 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="tagx" type="XML" />
+    </extensionMap>
+  </component>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="6c09663e-b004-4328-81d8-9689e657b462" type="PLAIN_TEXT" />
+      <mapping pattern="fields" type="PLAIN_TEXT" />
+      <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="20180313" type="PLAIN_TEXT" />
+      <mapping pattern="rpdcJpmTransform" type="Perl" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,134 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.6" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.6.0_20&quot;" />
+      <homePath value="/liquidnet/gate/vendor_jdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/rt.jar!/" type="simple" />
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar:///liquidnet/gate/vendor_jdk/jre/lib/ext/dnsns.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///liquidnet/gate/vendor_jdk/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.7" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.7.0_15&quot;" />
+      <homePath value="/liquidnet/3psw/x86_64/jdk1.7.0_15" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/jfxrt.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/rt.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/jre/lib/ext/dnsns.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.7.0_15/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_77&quot;" />
+      <homePath value="/liquidnet/3psw/x86_64/jdk1.8.0_77" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/src.zip!/" type="simple" />
+            <root url="jar:///liquidnet/3psw/x86_64/jdk1.8.0_77/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
